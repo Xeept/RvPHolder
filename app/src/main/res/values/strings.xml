@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recyclerview With Placeholder</string>
+    <string name="loading_text">Loading the list</string>
+    <string name="empty_list_text">This is an empty list</string>
+</resources>
